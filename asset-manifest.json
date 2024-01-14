@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69a5abf7.css",
+    "main.js": "/static/js/main.77f64a7e.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/cvsu.png": "/static/media/cvsu.0aa46c2d6925bd96999f.png",
+    "static/media/books.png": "/static/media/books.221415101adcce6fad1a.png",
+    "static/media/react.png": "/static/media/react.17d94a70a7d914a28eb4.png",
+    "static/media/students.png": "/static/media/students.3dab3083fd7eb147e954.png",
+    "static/media/subjects.png": "/static/media/subjects.3fb6a809cbb00c7aa420.png",
+    "static/media/students2.png": "/static/media/students2.b1c7c3b8e158544808ef.png",
+    "static/media/sypage.png": "/static/media/sypage.71fa52b0fb410060024c.png",
+    "static/media/homepage.png": "/static/media/homepage.bb19dc1e26f76cba5f38.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.58a10f2dd61e0872d537.png",
+    "static/media/games.png": "/static/media/games.1f52ab9c1f4362ccb825.png",
+    "static/media/html5.png": "/static/media/html5.0f727b57be1c518055e5.png",
+    "static/media/javascript.png": "/static/media/javascript.33bbe360db5ba87d1b23.png",
+    "static/media/reactimg.png": "/static/media/reactimg.3dfd01b4ddf3ea942289.png",
+    "static/media/desktop.png": "/static/media/desktop.50796419316bc0d0e9aa.png",
+    "index.html": "/index.html",
+    "main.69a5abf7.css.map": "/static/css/main.69a5abf7.css.map",
+    "main.77f64a7e.js.map": "/static/js/main.77f64a7e.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a5abf7.css",
+    "static/js/main.77f64a7e.js"
+  ]
+}
